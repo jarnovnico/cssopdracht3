@@ -187,7 +187,7 @@ main article {
   background-color: #fff;
   border-radius: none;
   width: 100%;
-  height: 100%;
+  // height: 100%;
 }
 
 main article:nth-child(2n+1) {
